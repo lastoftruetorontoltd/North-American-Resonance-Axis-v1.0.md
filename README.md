@@ -1,25 +1,26 @@
-# North-American-Resonance-Axis-v1.0.md
 # North American Resonance Axis — Public Edition v1.0
 
-A public research document exploring the cultural, historical, and geophysical ideas surrounding three landmark towers across North America:
+A myth‑tech research artifact presented by **LAST OF TRUE TORONTO, LTD.™** — exploring how three landmark towers across North America encode technological aspiration, cultural identity, and electromagnetic history.
+
+This repository contains the clean, public‑safe version of the **North American Resonance Axis** research. It examines the interpretive geometry linking:
 
 - **Wardenclyffe Tower** (New York)
 - **CN Tower** (Toronto)
 - **Space Needle** (Seattle)
 
-This repository contains the clean, public‑safe version of the **North American Resonance Axis** research. It examines how vertical infrastructure, electromagnetic history, and civic identity intersect to form a cultural framework known as the Resonance Axis.
+and situates them within a broader framework of identity physics, cultural infrastructure, and the myth‑tech cosmology developed by LOT T.O.
 
 ---
 
-## 📡 Purpose of This Repository
+## 📡 Purpose
 
-This repository serves as the **public anchor** for LOT T.O’s myth‑tech research library.  
+This repository serves as the **public anchor** for LOT T.O's emerging Myth‑Tech Research Library.  
 It provides:
 
-- A structured, academically grounded document  
+- A structured, academically grounded research document  
 - Clear distinctions between physics, history, and cultural interpretation  
-- A foundation for future myth‑tech research artifacts  
-- A timestamped public record of the Resonance Axis framework  
+- A foundation for future myth‑tech publications  
+- A timestamped public record of LOT's cosmological research  
 
 This repo does **not** contain internal institutional registers, governance documents, or LOT OS architecture.
 
@@ -45,7 +46,7 @@ The primary research document, including:
 The **North American Resonance Axis** is a cultural and interpretive framework linking three towers across the continent.  
 It explores:
 
-- Tesla’s early Earth‑resonance ambitions  
+- Tesla's early Earth‑resonance ambitions  
 - Natural ELF phenomena (Schumann resonances)  
 - Vertical infrastructure as identity engines  
 - The symbolic geometry formed by the three towers  
@@ -55,12 +56,12 @@ It is a **myth‑tech construct** designed to explore how cities encode technolo
 
 ---
 
-## 🧭 Why This Matters
+## 🔭 Why This Matters
 
 This research contributes to:
 
-- LOT T.O’s myth‑tech cosmology  
-- Toronto’s vertical identity physics  
+- LOT T.O's myth‑tech cosmology  
+- Toronto's vertical identity physics  
 - Cultural infrastructure studies  
 - Public understanding of electromagnetic history  
 - The emerging field of myth‑tech research  
@@ -69,7 +70,7 @@ It provides a **public‑safe**, **non‑doctrinal**, **non‑technical** explor
 
 ---
 
-## 🔭 Future Research (Planned)
+## 🧭 Future Research
 
 - LOT Myth‑Tech Library  
 - Infrastructure Mythology Series  
@@ -85,7 +86,7 @@ It provides a **public‑safe**, **non‑doctrinal**, **non‑technical** explor
 
 ---
 
-## 🏛 Maintained by  
+## 🏛 Presented by  
 **LAST OF TRUE TORONTO, LTD.™**  
 Myth‑Tech Research Division  
-Toronto, Ontario  
+Toronto, Ontario
