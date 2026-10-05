@@ -86,6 +86,6 @@ It provides a **public‑safe**, **non‑doctrinal**, **non‑technical** explor
 ---
 
 ## 🏛 Maintained by  
-**LAST OF TRUE TORONTO LTD.**  
+**LAST OF TRUE TORONTO, LTD.™**  
 Myth‑Tech Research Division  
 Toronto, Ontario  
