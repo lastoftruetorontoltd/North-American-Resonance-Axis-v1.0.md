@@ -1,0 +1,152 @@
+# North American Resonance Axis
+
+A cultural and technical exploration of three landmark towers and the electromagnetic phenomena that connect ideas of planetary resonance, urban identity, and technological mythology.
+
+---
+
+## Overview
+
+The North American Resonance Axis is an interpretive framework that places three free-standing towers in relation to one another:
+
+- **Wardenclyffe Tower** (Shoreham, Long Island, New York)
+- **CN Tower** (Toronto, Ontario)
+- **Space Needle** (Seattle, Washington)
+
+The framework draws on Nikola Tesla’s historical experiments with Earth resonance, the measurable physics of Schumann resonances, and the symbolic role of vertical infrastructure in shaping civic identity. It is presented here as a cultural construct rather than a historical or engineering project.
+
+---
+
+## 1. Wardenclyffe Tower
+
+**Location:** Shoreham, Long Island, New York  
+**Construction:** 1901–1902 (tower incomplete)  
+**Height:** Approximately 187 feet (57 m), topped by a hemispherical conductive dome roughly 68 feet (21 m) in diameter  
+
+### Purpose
+Nikola Tesla secured initial funding from J.P. Morgan for a transatlantic wireless communication station. Tesla’s larger ambition was a global system that would use the Earth itself as a conductor to transmit both information and electrical power. He believed that energy injected into the planet at the correct frequency could generate standing waves detectable and usable anywhere on Earth.
+
+### Design Features
+- Laboratory designed by architect Stanford White
+- Deep shaft and network of iron pipes intended to “grip” the Earth
+- High-voltage, high-frequency apparatus derived from Tesla’s earlier Colorado Springs experiments (1899)
+
+### Outcome
+Funding ceased after Tesla expanded the project beyond pure communication. Marconi’s successful 1901 transatlantic radio transmission further reduced investor interest. The tower was never completed or placed into commercial operation. It was demolished for scrap in 1917. The laboratory building remains and is preserved by the Tesla Science Center at Wardenclyffe.
+
+---
+
+## 2. CN Tower
+
+**Location:** Downtown Toronto, Ontario  
+**Construction:** February 1973 – April 1975  
+**Opened to the public:** 26 June 1976  
+**Height:** 553.3 metres (1,815 feet)
+
+### Purpose
+Built by Canadian National primarily as a telecommunications tower to restore clear radio and television signals blocked by Toronto’s growing skyline. It also functions as an observation and tourism landmark.
+
+### Significance
+- World’s tallest free-standing structure from 1975 until surpassed by the Burj Khalifa (2007–2010)
+- Remains the tallest free-standing structure in the Western Hemisphere
+- Recognized by the American Society of Civil Engineers as one of the Seven Wonders of the Modern World
+- Primary skyline icon and vertical identity marker for Toronto
+
+---
+
+## 3. Space Needle
+
+**Location:** Seattle Center, Seattle, Washington  
+**Construction:** Built for the 1962 Century 21 Exposition (World’s Fair)  
+**Height:** 605 feet (184 m)
+
+### Purpose and Symbolism
+Designed as a lasting landmark for the “Age of Space” theme of the 1962 World’s Fair. It embodies mid-century optimism about technological progress and remains Seattle’s most recognizable skyline element.
+
+---
+
+## 4. Schumann Resonances
+
+### Physical Basis
+The Earth’s surface and the lower ionosphere (approximately 60–100 km altitude) form a spherical cavity. Electromagnetic waves in the extremely low frequency (ELF) band can resonate within this cavity.
+
+### Excitation
+Global lightning activity (approximately 50–100 strokes per second worldwide) continuously supplies broadband electromagnetic energy. Frequency components matching the cavity’s natural modes are reinforced as standing waves that encircle the planet.
+
+### Ideal Frequency Formula
+For a perfect spherical cavity the resonant frequencies of the lowest transverse-magnetic modes are given by:
+
+\[
+f_l = \frac{c}{2\pi a}\sqrt{l(l+1)}
+\]
+
+where  
+- \(c\) is the speed of light  
+- \(a\) is Earth’s mean radius (≈ 6,371 km)  
+- \(l = 1, 2, 3, \dots\) is the mode number
+
+Ideal values:  
+- \(l=1\): ≈ 10.6 Hz  
+- \(l=2\): ≈ 18.4 Hz  
+- \(l=3\): ≈ 26.0 Hz  
+- \(l=4\): ≈ 33.5 Hz  
+- \(l=5\): ≈ 41.1 Hz  
+
+### Observed Frequencies
+Real-world ionospheric losses and variable cavity height lower and broaden the peaks. Commonly observed centres are approximately:
+
+| Mode | Frequency |
+|------|-----------|
+| 1    | 7.83 Hz   |
+| 2    | 14.3 Hz   |
+| 3    | 20.8 Hz   |
+| 4    | 27.3 Hz   |
+| 5    | 33.8 Hz   |
+
+Frequencies vary slightly with time of day, season, and solar activity.
+
+### Relation to Tesla
+Tesla’s concept of Earth resonance shares conceptual language with the Schumann resonances. The Schumann modes are a natural, passively excited cavity phenomenon driven by lightning. They do not constitute an engineered global power-transmission system of the kind Tesla proposed at Wardenclyffe.
+
+---
+
+## 5. Triad Geometry
+
+The three towers form a conceptual triangle across the continent:
+
+- **East:** Wardenclyffe (historical site of attempted planetary resonance technology)
+- **Centre:** CN Tower (successful large-scale telecommunications and civic landmark)
+- **West:** Space Needle (mid-century Space Age symbol)
+
+No historical, technical, or engineering project formally links the three structures. The triad is an interpretive device used to examine how vertical infrastructure becomes a carrier of technological aspiration and local identity.
+
+---
+
+## 6. Toronto Identity Physics & the Resonance Shaft
+
+Within the cultural framework developed around the CN Tower, the structure is read as a “vertical identity engine.” One analytical layer, termed the **Resonance Shaft**, associates the tower’s telecommunications function and skyline presence with ideas of harmonic resonance and technological identity.
+
+This reading draws on:
+- The historical language of Tesla’s Earth-resonance experiments
+- The measurable existence of Schumann resonances
+- The CN Tower’s dual role as functional infrastructure and civic symbol
+
+The Resonance Shaft is a cultural and interpretive construct. It does not claim measurable electromagnetic coupling between the CN Tower and the Schumann cavity beyond ordinary radio transmission.
+
+---
+
+## 7. Summary
+
+| Element              | Nature                          | Role in Framework                          |
+|----------------------|---------------------------------|--------------------------------------------|
+| Wardenclyffe Tower   | Historical experimental site    | Unfinished vision of planetary resonance   |
+| CN Tower             | Functional + symbolic landmark  | Vertical identity marker for Toronto       |
+| Space Needle         | Mid-century civic icon          | Western node of technological optimism     |
+| Schumann resonances  | Natural geophysical phenomenon  | Physical reference for “Earth resonance”   |
+| Triad / Axis         | Cultural construct              | Interpretive geometry linking the three    |
+| Resonance Shaft      | Cultural-analytical layer       | Reading of the CN Tower as identity engine |
+
+The North American Resonance Axis is offered as a public framework for exploring the intersection of electromagnetic history, urban symbolism, and technological mythology. It distinguishes clearly between documented physical phenomena, historical engineering efforts, and deliberate cultural interpretation.
+
+---
+
+*LAST OF TRUE TORONTO, LTD.™ Public Research Document — October 2026*
